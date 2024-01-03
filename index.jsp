@@ -4,9 +4,11 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Test Git</title>
 </head>
 <body>
-
+	<div>
+		test me
+	</div>
 </body>
 </html>
